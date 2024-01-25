@@ -4,11 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AeXp Domain Search</title>
-
-
-  <!-- meta -->
-
-
+	
 <!-- ========== Favicon Icon Start ========== -->
 <link rel="shortcut icon" href="https://aexpan.com.tr/upload/webfavicons/19a25722ae.ico" type="image/x-icon">
 <!-- ========== Favicon Icon Stop ========== -->
